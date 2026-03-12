@@ -133,7 +133,14 @@ A complete professional test plan covering:
 - ✅ Defect Management Process & SLAs
 - ✅ Deliverables List
 - ✅ Sign-Off Section
+- 
+### 5. 🛒 eCommerce BA/QA Work Samples — S2 Software Solutions (2016–2019)
 
+| File | Description |
+|------|-------------|
+| `S2_01_Test_Plan_and_Test_Cases.docx` | 15 test cases — B2C/B2B checkout, OMS, PCM, ERP sync, UAT |
+| `S2_02_Business_Requirements_RTM.docx` | RTM mapping 10 BRs to functional test scenarios + stakeholder RACI |
+| `S2_03_Data_Migration_Validation_Report.docx` | Full data migration validation: row counts, field rules, issues log, Go/No-Go |
 ---
 
 ## 💼 Resume & Cover Letter
