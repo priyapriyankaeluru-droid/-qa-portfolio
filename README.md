@@ -126,7 +126,7 @@ Each defect includes: Description, Steps to Reproduce, Expected vs Actual Result
 A complete professional test plan covering:
 - ✅ Scope of Testing (in scope / out of scope)
 - ✅ Test Objectives
-- ✅ Test Environment (SAP ECC, clients, transport path)
+- ✅ Test Environment (SAP Hana, clients, transport path)
 - ✅ Schedule & Milestones (8 phases)
 - ✅ Entry & Exit Criteria
 - ✅ Risk Register with Mitigation
@@ -156,12 +156,12 @@ A complete professional test plan covering:
 
 | Category | Skills |
 |----------|--------|
-| **SAP Modules** | SAP ECC – MM (Materials Management), SD (Sales & Distribution) |
+| **SAP Modules** | SAP Hana – MM (Materials Management), SD (Sales & Distribution) |
 | **Testing Types** | Functional, Regression, Integration, UAT, E2E, Smoke, API |
 | **Tools** | JIRA, TestRail, Postman, Swagger, SQL Developer, Confluence |
 | **Database** | MySQL, SQL Server — data validation & reporting queries |
 | **Methodologies** | Agile/Scrum, STLC, SDLC |
-| **Domains** | ERP, SAP, eCommerce, Banking |
+| **Domains** | ERP, SAP, eCommerce |
 
 ---
 
